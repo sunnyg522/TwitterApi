@@ -61,10 +61,6 @@ public class NewTweetActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-
-
-
-
 public void onPostTweet(View view) {
 
         String tweet = etNewTweet.getText().toString();
