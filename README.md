@@ -3,7 +3,7 @@
 ## Overview
 
 
-## following are the things which are comopleted 
+## following are the things which are compleated
 
 
 User can sign in to Twitter using OAuth login</br>
