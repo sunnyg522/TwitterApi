@@ -17,7 +17,7 @@ User can then enter a new tweet and post this to twitter</br>
 User is taken back to home timeline with new tweet visible in timeline</br>
 
 
-<img src='https://github.com/sunnyg522/AndroidImageSearch/blob/master/ImageSearch.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/sunnyg522/TwitterApi/blob/master/Tweet.gif' width='' alt='Video Walkthrough' />
 
 
 
