@@ -55,6 +55,10 @@
             android:name=".NewTweetActivity"
             android:label="@string/title_activity_new_tweet" >
         </activity>
+        <activity
+            android:name=".ProfileActivity"
+            android:label="@string/title_activity_profile" >
+        </activity>
     </application>
 
 </manifest>
