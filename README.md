@@ -18,6 +18,7 @@ User is taken back to home timeline with new tweet visible in timeline</br>
 
 
 <img src='https://github.com/sunnyg522/TwitterApi/blob/master/Tweet.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/sunnyg522/TwitterApi/blob/master/Tweet2.gif' width='' alt='Video Walkthrough' />
 
 
 
