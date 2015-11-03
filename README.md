@@ -17,6 +17,19 @@ User can then enter a new tweet and post this to twitter</br>
 User is taken back to home timeline with new tweet visible in timeline</br>
 
 
+
+Includes all required user stories from Week 3 Twitter Client</br>
+User can switch between Timeline and Mention views using tabs.</br>
+User can view their home timeline tweets.</br>
+User can view the recent mentions of their username.</br>
+User can navigate to view their own profile</br>
+User can see picture, tagline, # of followers, # of following, and tweets on their profile.</br>
+User can click on the profile image in any tweet to see another user's profile.</br>
+User can see picture, tagline, # of followers, # of following, and tweets of clicked user.</br>
+Profile view should include that user's timeline</br>
+Optional: User can view following / followers list through the profile</br>
+User can infinitely paginate any of these timelines (home, mentions, user) by scrolling to the bottom</br>
+
 <img src='https://github.com/sunnyg522/TwitterApi/blob/master/Tweet3.gif' width='' alt='Video Walkthrough' />
 <img src='https://github.com/sunnyg522/TwitterApi/blob/master/Tweet.gif' width='' alt='Video Walkthrough' />
 <img src='https://github.com/sunnyg522/TwitterApi/blob/master/Tweet2.gif' width='' alt='Video Walkthrough' />
